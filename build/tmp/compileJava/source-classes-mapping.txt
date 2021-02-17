@@ -1,0 +1,16 @@
+Set/testeLinkedHashSet.java
+ Set.testeLinkedHashSet
+Set/testeTreeSet.java
+ Set.testeTreeSet
+Set/testeHashSet.java
+ Set.testeHashSet
+teste2.java
+ teste2
+teste4.java
+ teste4
+teste3.java
+ teste3
+Set/testeQuery.java
+ Set.testeQuery
+test.java
+ test
