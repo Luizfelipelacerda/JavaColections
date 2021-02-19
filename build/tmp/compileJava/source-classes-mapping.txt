@@ -14,3 +14,21 @@ Set/testeQuery.java
  Set.testeQuery
 test.java
  test
+Map/testeTreeMap.java
+ Map.testeTreeMap
+Map/TesteHashMap.java
+ Map.TesteHashMap
+Comparators/Estudante.java
+ Comparators.Estudante
+Comparators/ComparatorExemplList.java
+ Comparators.ComparatorExemplList
+Comparators/EstudanteOrdemIdadeReverseComparator.java
+ Comparators.EstudanteOrdemIdadeReverseComparator
+Optionals/exemploOptionalEstado.java
+ Optionals.exemploOptionalEstado
+Optionals/exemploOptional.java
+ Optionals.exemploOptional
+Optionals/exemploOptionalPrimitivo.java
+ Optionals.exemploOptionalPrimitivo
+Streams/exemplosStreamAPI.java
+ Streams.exemplosStreamAPI
